@@ -35,3 +35,4 @@ One signature from several signers: multisig that is cheaper and maintains priva
 - [seedsigner-simulator](https://github.com/bitsagarob/seedsigner-simulator) : Run Seedsigner firmware in your browser
 - [seedsigner-verify](https://github.com/bitsagarob/seedsigner-verify) : download & check the seedsigner firmware
 - [btc-core-in-browser](https://github.com/bitsagarob/btc-core-in-browser) : Run Bitcoin Core in your browser
+- [Shielded bitcoin](https://github.com/bitsagarob/shielded-btc-probe) : Shielded bitcoin proof of concept
